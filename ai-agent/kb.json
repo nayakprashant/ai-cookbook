@@ -1,0 +1,125 @@
+{
+    "product_knowledge_base": [
+      {
+        "question": "What is the product made of?",
+        "answer": "The product is made of high-quality, eco-friendly materials including stainless steel and BPA-free plastic."
+      },
+      {
+        "question": "What are the available colors?",
+        "answer": "The product is available in black, white, blue, and red."
+      },
+      {
+        "question": "Is the product waterproof?",
+        "answer": "Yes, the product is waterproof up to 1 meter for 30 minutes."
+      },
+      {
+        "question": "How long does the battery last?",
+        "answer": "The battery lasts up to 10 hours on a full charge."
+      },
+      {
+        "question": "What is included in the box?",
+        "answer": "The box includes the product, a USB charging cable, a user manual, and a warranty card."
+      },
+      {
+        "question": "Does the product come with a warranty?",
+        "answer": "Yes, the product comes with a 1-year limited warranty covering manufacturing defects."
+      },
+      {
+        "question": "How do I charge the product?",
+        "answer": "Use the included USB-C cable to charge the product. A full charge takes approximately 2 hours."
+      },
+      {
+        "question": "Can I return the product?",
+        "answer": "Yes, the product can be returned within 30 days of purchase if it is in unused condition and in its original packaging."
+      },
+      {
+        "question": "What is the return policy?",
+        "answer": "Customers can return the product within 30 days of purchase. It must be in unused condition with original packaging. Refunds will be processed within 7-10 business days."
+      },
+      {
+        "question": "Is the product compatible with iOS and Android?",
+        "answer": "Yes, the product is compatible with both iOS and Android devices."
+      },
+      {
+        "question": "Does the product support Bluetooth?",
+        "answer": "Yes, it supports Bluetooth 5.0 for fast and stable connectivity."
+      },
+      {
+        "question": "How do I clean the product?",
+        "answer": "Use a soft, damp cloth to wipe the surface. Do not use harsh chemicals."
+      },
+      {
+        "question": "Is there a mobile app for this product?",
+        "answer": "Yes, you can download our mobile app from the App Store or Google Play for additional features."
+      },
+      {
+        "question": "What is the weight of the product?",
+        "answer": "The product weighs approximately 250 grams."
+      },
+      {
+        "question": "Can I use the product while traveling?",
+        "answer": "Yes, it is designed to be portable and travel-friendly."
+      },
+      {
+        "question": "How do I reset the product?",
+        "answer": "Press and hold the power button for 10 seconds until the LED light blinks."
+      },
+      {
+        "question": "What is the warranty claim process?",
+        "answer": "Contact customer support with proof of purchase, and we will guide you through the process."
+      },
+      {
+        "question": "Can I replace the battery?",
+        "answer": "No, the battery is built-in and not user-replaceable."
+      },
+      {
+        "question": "Does the product support fast charging?",
+        "answer": "Yes, it supports fast charging with a compatible adapter."
+      },
+      {
+        "question": "What should I do if the product is defective?",
+        "answer": "Contact our support team for a replacement or refund under the warranty policy."
+      },
+      {
+        "question": "Where can I buy replacement parts?",
+        "answer": "Replacement parts are available on our official website and authorized retailers."
+      },
+      {
+        "question": "Can I use the product outdoors?",
+        "answer": "Yes, it is designed for both indoor and outdoor use."
+      },
+      {
+        "question": "Is the product safe for children?",
+        "answer": "Yes, but adult supervision is recommended for children under 10 years old."
+      },
+      {
+        "question": "Does the product come with a user manual?",
+        "answer": "Yes, a detailed user manual is included in the box."
+      },
+      {
+        "question": "What is the operating temperature range?",
+        "answer": "The product operates between -10°C and 45°C."
+      },
+      {
+        "question": "Can I track my order?",
+        "answer": "Yes, you will receive a tracking link after your order is shipped."
+      },
+      {
+        "question": "How do I contact customer support?",
+        "answer": "You can contact us via email at support@example.com or call our helpline."
+      },
+      {
+        "question": "Does the product have a sleep mode?",
+        "answer": "Yes, it automatically enters sleep mode after 10 minutes of inactivity."
+      },
+      {
+        "question": "What payment methods are accepted?",
+        "answer": "We accept credit cards, debit cards, PayPal, and UPI."
+      },
+      {
+        "question": "Is there a subscription required for additional features?",
+        "answer": "No, all features are available without a subscription."
+      }
+    ]
+  }
+  

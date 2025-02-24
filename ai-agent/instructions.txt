@@ -1,0 +1,7 @@
+#1 Run following commands in the environment
+pip install python-dotenv #This is used to setup .env environment variable used to store secure information like API keys etc.
+pip install openai #This is used to interact with chatGPT openAI model
+pip install pydantic #used to structure the data in specific format
+pip install requests #used to make API calls
+
+# Learn pydantic, pydantic_settings, fastAPI, Celery, PostgreSQL or Mongo - sqlalchemy, instructor library, langchain, pinecone
